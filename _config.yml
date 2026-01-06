@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Shiangyi Lin"
   pronouns         : # example: "she/her"  
-  bio              : ""
-  location         : ""
-  employer         : ""
+  bio              : # ""
+  location         : # ""
+  employer         : # ""
   uri              : # URL
   email            : "shiangyi@stanford.edu" 
 
@@ -138,7 +138,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               :
   app_id                 :
