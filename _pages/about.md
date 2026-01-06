@@ -9,13 +9,13 @@ redirect_from:
 
 I am currently a PhD student in Stanford ICME, advised by Vasilis Syrgkanis. Prior to joining Stanford, I received a Bachelor’s degree in Engineering Mathematics & Statistics from UC Berkeley. I am broadly interested in the intersection of machine learning and causal inference.
 
-Publications
+## Publications
 
 **Lin, Shiangyi**, Hui Lan, and Vasilis Syrgkanis. “Learning Treatment Representations for Downstream Instrumental Variable Regression.” 
 
-Teaching
+## Teaching
 
-Course Assistant for Applied Causal Inference with Machine Learning and AI (MS&E 228 / CS 288, Winter 2026, Stanford)
+Course Assistant for Applied Causal Inference with Machine Learning and AI (MS&E228/CS288, Winter 2026, Stanford)
 
 <!---
 
