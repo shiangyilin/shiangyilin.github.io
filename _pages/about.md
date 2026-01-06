@@ -1,5 +1,18 @@
 ---
 permalink: /
+title: "Welcome to my personal website!"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+I am currently a PhD student in Stanford ICME, advised by Vasilis Syrgkanis. Prior to joining Stanford, I received a Bachelor’s degree in Engineering Mathematics & Statistics from UC Berkeley. I am broadly interested in the intersection of machine learning and causal inference.
+
+<!---
+
+---
+permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
@@ -54,3 +67,5 @@ Example: editing a Markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+--->
